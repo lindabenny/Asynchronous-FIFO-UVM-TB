@@ -1,0 +1,2 @@
+  CREATE_STREAM @0 {NAME:s2 T:Transactions SCOPE:uvm_test_top.e.a.seqr STREAM:644}
+  CREATE_STREAM @458 {NAME:s3 T:Transactions SCOPE:uvm_test_top.e.a.seqr STREAM:872}
