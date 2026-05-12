@@ -254,7 +254,7 @@ Asynchronous-FIFO-UVM/
 
 
 ```markdown
-(results/testbench_flow_diagram.png)
+![Testbench Flow Diagram](results/Testbench_Flow_Diagram.png)
 ```
 
 ---
@@ -264,7 +264,7 @@ Asynchronous-FIFO-UVM/
 Add your waveform screenshot here:
 
 ```markdown
-(results/waveform_result.png)
+![FIFO Waveform](results/waveform_result.png)
 ```
 
 ---
