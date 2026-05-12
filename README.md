@@ -239,8 +239,7 @@ Asynchronous-FIFO-UVM/
 │   └── async_fifo_uvm_tb.sv
 ├── sim/
 │   └── run.do
-├── images/
-│   ├── framework_design.png
+├── results/
 │   ├── waveform.png
 │   └── simulation_result.png
 └── docs/
@@ -261,7 +260,6 @@ Asynchronous-FIFO-UVM/
 
 ## Waveform Screenshot
 
-Add your waveform screenshot here:
 
 ```markdown
 ![FIFO Waveform](results/waveform_result.png)
