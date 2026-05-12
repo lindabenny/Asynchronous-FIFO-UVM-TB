@@ -226,13 +226,6 @@ Example simulation result:
 UVM_INFO SCO: DATA MATCH Expected data = <value>, Actual data = <value>
 ```
 
-### Result Screenshot
-
-Add your simulation result screenshot here:
-
-```markdown
-![Simulation Result](images/simulation_result.png)
-```
 
 Recommended GitHub folder structure:
 
@@ -261,7 +254,7 @@ Asynchronous-FIFO-UVM/
 
 
 ```markdown
-![UVM Framework Design](results/testbench_flow_diagram.png)
+(results/testbench_flow_diagram.png)
 ```
 
 ---
@@ -271,7 +264,7 @@ Asynchronous-FIFO-UVM/
 Add your waveform screenshot here:
 
 ```markdown
-![FIFO Waveform](results/waveform_result.png)
+(results/waveform_result.png)
 ```
 
 ---
