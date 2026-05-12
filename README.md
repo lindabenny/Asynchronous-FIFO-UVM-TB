@@ -256,12 +256,12 @@ Asynchronous-FIFO-UVM/
 
 ---
 
-## Framework Design Screenshot
+## TestBench Flow Diagram Screenshot
 
-Add your UVM framework diagram screenshot here:
+
 
 ```markdown
-![UVM Framework Design](images/framework_design.png)
+![UVM Framework Design](results/testbench_flow_diagram.png)
 ```
 
 ---
@@ -271,7 +271,7 @@ Add your UVM framework diagram screenshot here:
 Add your waveform screenshot here:
 
 ```markdown
-![FIFO Waveform](images/waveform.png)
+![FIFO Waveform](results/waveform_result.png)
 ```
 
 ---
